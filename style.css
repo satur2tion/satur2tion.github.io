@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ff0073;
+}
+
+.container {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: rgb(0, 0, 0);
+    margin: 50px auto;
+}
+
+.box {
+    position: absolute;
+    border: 10px solid black;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: rgb(0, 0, 255);
+}
+.yellow {
+    background-color: rgb(255, 255, 0);
+}
+.white {
+    background-color: rgb(255, 255, 255);
+}
+.black {
+    background-color: #000000;
+}
+#b1 {
+    width: 100px;
+    height: 920px;
+    top: 0;
+    left: 0;
+}
+#b2 {
+    width: 500px;
+    height: 200px;
+    top: px ;
+    left: 110px;
+}
+#b3 {
+    width: 395px;
+    height: 200px;
+    top:0px;
+    right: 0px;;
+}
+#b4 {
+    width: 300px;
+    height: 500px;
+    bottom: 294px;
+    left: 1110px;
+}
+#b5 {
+    width: 400px;
+    height: 400px;
+    bottom: 394px;
+    left: 110px;
+}
+#b6 {
+    width: 300px;
+    height: 300px;
+    bottom: 704px;
+    right: 500px;
+}
+#b7 {
+    width: 70px;
+    height: 500px;
+    bottom: 293px;
+    right: 320px;
+}
+#b8 {
+    width: 400px;
+    height: 500px;
+    bottom: 195px ;
+    right: 400px;
+}
+#b9 {
+    width: 200px;
+    height: 290px;
+    bottom: 93px;
+    right: 1110px;
+}
+#b10 {
+    width: 400px;
+    height: 200px;
+    bottom: 1px;
+    right: 400px;
+}
+#b11 {
+    width: 610px;
+    height: 82px;
+    bottom: 0px;
+    right: 810px;
+}
+#b12 {
+    width: 80px;
+    height: 284px;
+    bottom: 0px;
+    right: 5px;
+}#b13 {
+    width: 200px;
+    height: 224px;
+    bottom: 60px;
+    right: 190px;
+}
+#b14 {
+    width: 295px;
+    height: 50px;
+    bottom: 0px;
+    right: 95px;
+}
+#b15 {
+    width: 130px;
+    height: 700px;
+    bottom: 94px;
+    right: 810px;
+}
+#b16 {
+    width: 90px;
+    height: 86px;
+    bottom: 707px;
+    right: 400px;
+}
+#b17 {
+    width: 150px;
+    height: 200px;
+    bottom: 184px;
+    right: 950px;
+}
+#b18 {
+    width: 147px;
+    height: 90px;
+    bottom: 92px;
+    right: 951px;
+}
+#b19 {
+    width: 85px;
+    height: 224px;
+    bottom: 60px;
+    right: 96px;
+}
+#b20 {
+    width: 300px;
+    height: 100px;
+    bottom: 804px;
+    right: 10px;
+}
