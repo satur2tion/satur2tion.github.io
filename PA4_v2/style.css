@@ -30,24 +30,22 @@ height: 600px;
 overflow: hidden;
 }
 
-#h7{
+h1{
     position: absolute;
 width: 1440px;
-left: 180px;
-top: -100px;
+left: 38px;
+top: 1060px;
   font-family: "rafaella", sans-serif;
 font-weight: 700;
 font-style: normal; 
-font-size: 60px;
+font-size: 50px;
 color: darkgreen;
 }
-
-
 #b1 {
 position: absolute;
 background-color: #ebe2ba;
-left: 550px;
-top: 290px;
+left: 600px;
+top: 230px;
 width: 1440px;
 height: 800px;
 overflow: hidden;
@@ -92,7 +90,7 @@ font-family: "Oswald", sans-serif;
    position: absolute;
 left: 230px;
 background-color: #ff9d9d00;
-top: 20px;
+top: 10px;
   transform: scaleX(-1);
 width: 1200px;
 height: 300px;
@@ -165,27 +163,22 @@ font-family: coolvetica, sans-serif;
 }
 .ascii {
   font-family: monospace;
-  top: 1355px;
-  left: 220px;
+  top: 1385px;
+  left: 190px;
   white-space: pre;
-  scale: 2;
+  scale: 1.8;
   color: darkgreen;
+
   background: rgba(0, 0, 0, 0);
   position: absolute;
 }
 
-#Ugly h1{
-background-color: #ebe2ba;
-width: 100px;
-height: 200px;
-overflow:;
-left: 100px;
-}
 
 #Ugly h1 {
   position: absolute;
-  top: 0;
+  top: 100;
   width: 1440px;
+  height: 1000px;
   left:
   margin: 0;
   font-family: "rafaella", sans-serif;
