@@ -163,10 +163,10 @@ font-family: coolvetica, sans-serif;
 }
 .ascii {
   font-family: monospace;
-  top: 1385px;
-  left: 190px;
+  top: 1415px;
+  left: 130px;
   white-space: pre;
-  scale: 1.8;
+  scale: 1.5;
   color: darkgreen;
 
   background: rgba(0, 0, 0, 0);
